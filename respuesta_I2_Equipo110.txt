@@ -1,0 +1,1 @@
+A- Para actualizar tu repositorio al estado en que esté el repo en el cual hiciste fork tenes que apretar en tu repositorio en la pestaña Sync fork y ver si hay actualizaciones
